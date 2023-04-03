@@ -1,0 +1,1 @@
+g++ FinalProject.cpp -o PLAY -I include -L lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio    
